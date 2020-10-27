@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="329px" height="582px" viewBox="0 0 329 582" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Rectangle 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.1%" y="-0.5%" width="102.1%" height="101.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.700000048">
+        <g id="workspace--items---item-photos----add-photos" transform="translate(-23.000000, -53.000000)" fill="#FFFFFF">
+            <g id="Group-2" filter="url(#filter-1)" transform="translate(-0.000000, 55.000000)">
+                <path d="M27.5958466,555.635783 L27.5954249,575.763 L47.7236422,575.763578 L47.7236422,578 L25.3594249,578 L25.3594249,555.635783 L27.5958466,555.635783 Z M349.640575,555.635783 L349.640575,578 L327.276358,578 L327.276358,575.763578 L347.403425,575.763 L347.404153,555.635783 L349.640575,555.635783 Z M47.7236422,-1.1701767e-10 L47.7236422,2.23642173 L27.5954249,2.236 L27.5958466,22.3642173 L25.3594249,22.3642173 L25.3594249,-1.17827775e-10 L47.7236422,-1.1701767e-10 Z M349.640575,22.3642173 L347.404153,22.3642173 L347.403425,2.236 L327.276358,2.23642173 L327.276358,-1.19620632e-10 L349.640575,-1.19619262e-10 L349.640575,22.3642173 Z" id="Rectangle-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
